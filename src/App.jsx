@@ -27,7 +27,7 @@ const Counter=()=> {
   return (
     <>
       <div className="container">
-      <h4>React Counter</h4>
+      <h4>-- NTCODER --</h4>
       <div className="box">
         <div className="numeric"><h1>{counter}</h1></div>
         <div className="btn">
