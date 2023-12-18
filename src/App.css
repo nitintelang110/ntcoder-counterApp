@@ -61,5 +61,8 @@ button:hover{
   .box{
     width: 80%;
   }
+  .btn{
+  height: 160px;
+  }
 }
 
